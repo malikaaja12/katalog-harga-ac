@@ -1377,7 +1377,7 @@ const acData = [
             price: "Rp 3.700.000",
             oldPrice: "Rp 4.100.000",
             imgList: "img/Midea/INV.webp", // Image for list view
-            imgDetail: "img/Midea/Dt.INV", // Image for detail view
+            imgDetail: "https://web-res.midea.com/content/dam/midea-aem/id/id-new/pdp/air-conditioner/residential/msiaf-05crdn2x/Super-Nyaman-1920x1080.jpg/jcr:content/renditions/Super-Nyaman-1920x1080.webp", // Image for detail view
             features: [
               "Frozen Power",
               "Gold Fin & Blue Fin",
@@ -1399,7 +1399,7 @@ const acData = [
             price: "Rp 3.700.000",
             oldPrice: "Rp 4.100.000",
             imgList: "img/Midea/INV.webp", // Image for list view
-            imgDetail: "img/Midea/Dt.INV", // Image for detail view
+            imgDetail: "https://web-res.midea.com/content/dam/midea-aem/id/id-new/pdp/air-conditioner/residential/msiaf-05crdn2x/Super-Nyaman-1920x1080.jpg/jcr:content/renditions/Super-Nyaman-1920x1080.webp", // Image for detail view
             features: [
               "Frozen Power",
               "Gold Fin & Blue Fin",
@@ -1421,7 +1421,7 @@ const acData = [
             price: "Rp 3.700.000",
             oldPrice: "Rp 4.100.000",
             imgList: "img/Midea/INV.webp", // Image for list view
-            imgDetail: "img/Midea/Dt.INV", // Image for detail view
+            imgDetail: "https://web-res.midea.com/content/dam/midea-aem/id/id-new/pdp/air-conditioner/residential/msiaf-05crdn2x/Super-Nyaman-1920x1080.jpg/jcr:content/renditions/Super-Nyaman-1920x1080.webp", // Image for detail view
             features: [
               "Frozen Power",
               "Gold Fin & Blue Fin",
@@ -1443,7 +1443,7 @@ const acData = [
             price: "Rp 3.700.000",
             oldPrice: "Rp 4.100.000",
             imgList: "img/Midea/INV.webp", // Image for list view
-            imgDetail: "img/Midea/Dt.INV", // Image for detail view
+            imgDetail: "https://web-res.midea.com/content/dam/midea-aem/id/id-new/pdp/air-conditioner/residential/msiaf-05crdn2x/Super-Nyaman-1920x1080.jpg/jcr:content/renditions/Super-Nyaman-1920x1080.webp", // Image for detail view
             features: [
               "Frozen Power",
               "Gold Fin & Blue Fin",
