@@ -1251,7 +1251,7 @@ const acData = [
   },
   {
     brand: "Midea",
-    imageUrl: "img/Midea/Logo.WEBP",
+    imageUrl: "img/Midea/Logo.webp",
     types: [
       {
         name: "Standar Series",
